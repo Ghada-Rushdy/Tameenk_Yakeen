@@ -3882,11 +3882,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Yakeen\\Tameenk_Yakeen\\Tameenk.Yakeen.Component\\Tameenk.Yakeen.Component.csproj",
+      "projectUniqueName": "D:\\Projects\\Tameenk_Yakeen\\Tameenk.Yakeen.Component\\Tameenk.Yakeen.Component.csproj",
       "projectName": "Tameenk.Yakeen.Component",
-      "projectPath": "D:\\Yakeen\\Tameenk_Yakeen\\Tameenk.Yakeen.Component\\Tameenk.Yakeen.Component.csproj",
+      "projectPath": "D:\\Projects\\Tameenk_Yakeen\\Tameenk.Yakeen.Component\\Tameenk.Yakeen.Component.csproj",
       "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-      "outputPath": "D:\\Yakeen\\Tameenk_Yakeen\\Tameenk.Yakeen.Component\\obj\\",
+      "outputPath": "D:\\Projects\\Tameenk_Yakeen\\Tameenk.Yakeen.Component\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3905,11 +3905,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Yakeen\\Tameenk_Yakeen\\Tameenk.Yakeen.DAL\\Tameenk.Yakeen.DAL.csproj": {
-              "projectPath": "D:\\Yakeen\\Tameenk_Yakeen\\Tameenk.Yakeen.DAL\\Tameenk.Yakeen.DAL.csproj"
+            "D:\\Projects\\Tameenk_Yakeen\\Tameenk.Yakeen.DAL\\Tameenk.Yakeen.DAL.csproj": {
+              "projectPath": "D:\\Projects\\Tameenk_Yakeen\\Tameenk.Yakeen.DAL\\Tameenk.Yakeen.DAL.csproj"
             },
-            "D:\\Yakeen\\Tameenk_Yakeen\\Tameenk.Yakeen.Service\\Tameenk.Yakeen.Service.csproj": {
-              "projectPath": "D:\\Yakeen\\Tameenk_Yakeen\\Tameenk.Yakeen.Service\\Tameenk.Yakeen.Service.csproj"
+            "D:\\Projects\\Tameenk_Yakeen\\Tameenk.Yakeen.Service\\Tameenk.Yakeen.Service.csproj": {
+              "projectPath": "D:\\Projects\\Tameenk_Yakeen\\Tameenk.Yakeen.Service\\Tameenk.Yakeen.Service.csproj"
             }
           }
         }

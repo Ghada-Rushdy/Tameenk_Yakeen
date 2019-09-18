@@ -7,3 +7,11 @@ D:\Yakeen\Tameenk_Yakeen\Tameenk.Yakeen.DAL\obj\Debug\netstandard2.0\Tameenk.Yak
 D:\Yakeen\Tameenk_Yakeen\Tameenk.Yakeen.DAL\obj\Debug\netstandard2.0\Tameenk.Yakeen.DAL.AssemblyInfo.cs
 D:\Yakeen\Tameenk_Yakeen\Tameenk.Yakeen.DAL\obj\Debug\netstandard2.0\Tameenk.Yakeen.DAL.dll
 D:\Yakeen\Tameenk_Yakeen\Tameenk.Yakeen.DAL\obj\Debug\netstandard2.0\Tameenk.Yakeen.DAL.pdb
+D:\Projects\Tameenk_Yakeen\Tameenk.Yakeen.DAL\bin\Debug\netstandard2.0\Tameenk.Yakeen.DAL.deps.json
+D:\Projects\Tameenk_Yakeen\Tameenk.Yakeen.DAL\bin\Debug\netstandard2.0\Tameenk.Yakeen.DAL.dll
+D:\Projects\Tameenk_Yakeen\Tameenk.Yakeen.DAL\bin\Debug\netstandard2.0\Tameenk.Yakeen.DAL.pdb
+D:\Projects\Tameenk_Yakeen\Tameenk.Yakeen.DAL\obj\Debug\netstandard2.0\Tameenk.Yakeen.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Tameenk_Yakeen\Tameenk.Yakeen.DAL\obj\Debug\netstandard2.0\Tameenk.Yakeen.DAL.AssemblyInfoInputs.cache
+D:\Projects\Tameenk_Yakeen\Tameenk.Yakeen.DAL\obj\Debug\netstandard2.0\Tameenk.Yakeen.DAL.AssemblyInfo.cs
+D:\Projects\Tameenk_Yakeen\Tameenk.Yakeen.DAL\obj\Debug\netstandard2.0\Tameenk.Yakeen.DAL.dll
+D:\Projects\Tameenk_Yakeen\Tameenk.Yakeen.DAL\obj\Debug\netstandard2.0\Tameenk.Yakeen.DAL.pdb

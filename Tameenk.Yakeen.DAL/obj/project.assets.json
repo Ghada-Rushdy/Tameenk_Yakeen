@@ -3308,11 +3308,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Yakeen\\Tameenk_Yakeen\\Tameenk.Yakeen.DAL\\Tameenk.Yakeen.DAL.csproj",
+      "projectUniqueName": "D:\\Projects\\Tameenk_Yakeen\\Tameenk.Yakeen.DAL\\Tameenk.Yakeen.DAL.csproj",
       "projectName": "Tameenk.Yakeen.DAL",
-      "projectPath": "D:\\Yakeen\\Tameenk_Yakeen\\Tameenk.Yakeen.DAL\\Tameenk.Yakeen.DAL.csproj",
+      "projectPath": "D:\\Projects\\Tameenk_Yakeen\\Tameenk.Yakeen.DAL\\Tameenk.Yakeen.DAL.csproj",
       "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-      "outputPath": "D:\\Yakeen\\Tameenk_Yakeen\\Tameenk.Yakeen.DAL\\obj\\",
+      "outputPath": "D:\\Projects\\Tameenk_Yakeen\\Tameenk.Yakeen.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
