@@ -30,7 +30,7 @@ namespace Tameenk.Yakeen.DAL
             get;
             set;
         }
-        public Guid CitizenId { get; set; }
+        public string CitizenId { get; set; }
         public string Method { get; set; }       
         public string ReferenceNumber { get; set; }
         public string ServerIP { get; set; }

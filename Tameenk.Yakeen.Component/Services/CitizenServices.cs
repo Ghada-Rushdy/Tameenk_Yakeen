@@ -18,7 +18,7 @@ namespace YakeenComponent
         private static CitizenRequestLogDataAccess citizinLogDataAccess = new CitizenRequestLogDataAccess();
         private static CitizenRequestLog citizenRequestLog = new CitizenRequestLog();
 
-        public static CitizenOutput GetCitizenByTameenkId(Guid CitizenId)
+        public static CitizenOutput GetCitizenByTameenkId(string CitizenId)
         {            
             citizenRequestLog.Method = "GetCitizenByTameenkId";
             citizenRequestLog.ServerIP = Utilities.GetServerIP();
@@ -26,7 +26,7 @@ namespace YakeenComponent
 
             try
             {
-                if (CitizenId == Guid.Empty)
+                if (string.IsNullOrEmpty(CitizenId))
                 {
                     citizenRequestLog.ErrorCode = CitizenRequestLog.ErrorCodes.NullRequest;
                     citizenRequestLog.ErrorDescription = "Citizen Id is null";
@@ -42,7 +42,7 @@ namespace YakeenComponent
 
                 DriverYakeenInfoModel driver = null;
 
-                Citizen driverData = citizenDataAccess.Find(d => d.DriverId == CitizenId, e => e.OrderByDescending(x => x.CreatedDate))
+                Citizen driverData = citizenDataAccess.Find(d => d.NIN == CitizenId, e => e.OrderByDescending(x => x.CreatedDate))
                     .FirstOrDefault();
 
                 if (driverData != null)
