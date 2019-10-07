@@ -32,27 +32,27 @@ namespace YakeenComponent
 
         public string EnglishSecondName { get; set; }
 
-        public string EnglishThirdName { get; set; }
+        public string EnglishMiddleName { get; set; }
 
-        public string LastName { get; set; }
+        public string ArabicLastName { get; set; }
 
-        public string SecondName { get; set; }
+        public string ArabicSecondName { get; set; }
 
-        public string FirstName { get; set; }
+        public string ArabicFirstName { get; set; }
 
-        public string ThirdName { get; set; }
+        public string ArabicMiddleName { get; set; }
 
         public string SubtribeName { get; set; }
 
         public DateTime DateOfBirthG { get; set; }
-
-        public short? NationalityCode { get; set; }
-
         public string DateOfBirthH { get; set; }
+
+        public short? NationalityCode { get; set; }    
 
         public string NIN { get; set; }
 
         public int? OccupationId { get; set; }
+        public string OccupationCode { get; set; }
 
         public int? SocialStatusId { get; set; }
 
@@ -64,14 +64,12 @@ namespace YakeenComponent
 
         public string IdExpiryDate { get; set; }
 
-
         //additional fields
 
         public DateTime? CreatedDate { get; set; }
         public string CreatedBy { get; set; }
         public DateTime? ModifiedDate { get; set; }
         public string ModifiedBy { get; set; }
-
         public bool IsDeleted { get; set; }
     }
 }
