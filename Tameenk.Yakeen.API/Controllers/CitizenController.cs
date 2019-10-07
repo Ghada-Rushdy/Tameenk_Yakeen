@@ -26,7 +26,7 @@ namespace Tameenk.Yakeen.API.Controllers
         [HttpGet]
         [AllowAnonymous]
         [Route("GetCitizenByID")]
-        public IHttpActionResult GetCitizenByID(Guid id)
+        public IHttpActionResult GetCitizenByID(string id)
         {
             var citizenObject = CitizenServices.GetCitizenByTameenkId(id);
 
